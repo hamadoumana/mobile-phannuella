@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329791758246",
+    "project_id": "phannuella-couture",
+    "storage_bucket": "phannuella-couture.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329791758246:android:938279955d9ab9a9723967",
+        "android_client_info": {
+          "package_name": "com.phannuellacouture.tailor_shop_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfRWDQuTVfEUDIzhCC72K6mM0CK1HFa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
